@@ -1,7 +1,7 @@
 # Tuition-Management-System-Py
 Greetings, this project is a Tuition Management System that is coded in Python.
 
-Steps to run the file
+Instructions to run the file:
 1. Download TMSinPy.py file
 2. Directly run the file by double pressing.
 
