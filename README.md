@@ -6,13 +6,16 @@ Steps to run the file
 2. Directly run the file by double pressing.
 
 Credentials for each role:
-("Admin", {"password": "admin123", "role": "admin"}),
-("John", {"password": "recep123", "role": "receptionist"}),
-("Jack", {"password": "recep234", "role": "receptionist"}),
-("Wong", {"password": "tutor123", "role": "tutor"}),
-("Wee", {"password": "tutor234", "role": "tutor"}),
-("David", {"password": "tutor345", "role": "tutor"}),
-("Ali", {"password": "student123", "role": "student"}),
-("Akau", {"password": "student123", "role": "student"}),
-("Muthu", {"password": "student123", "role": "student"})
-    
+| Role              | Username | Password   |
+|-------------------|----------|------------|
+| `Admin`           | Admin    | admin123   |
+| `Receptionist`    | John     | recep123   |
+| `Receptionist`    | Jack     | recep234   |
+| `Tutor`           | Wong     | tutor123   |
+| `Tutor`           | Wee      | tutor234   |
+| `Tutor`           | David    | tutor345   |
+| `Student`         | Ali      | student123 |
+| `Student`         | Akau     | student123 |
+| `Student`         | Muthu    | student123 |
+
+
